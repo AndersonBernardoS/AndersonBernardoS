@@ -45,9 +45,3 @@
   
 <img align="center" alt="DimAnder-Travis" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain-wordmark.svg" />  
 <img align="center" alt="DimAnder-CodeCov" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codecov/codecov-plain.svg" />
-  
-  
-<div>
-   ![Snake animation](https://github.com/DimAnder360/DimAnder360/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
