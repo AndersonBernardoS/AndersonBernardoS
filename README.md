@@ -9,7 +9,7 @@
 
 - 🌱 Atualmente estou cursando a Graduação de Análise e Desenvolvimento de Sistemas, estudo Python e Django, e estou aprimorando meus conhecimentos com Scrum, Kanban e OKR.
 
-- 🎯 Tenho objetivos de me pós-graduar em IA, Machine learning e Banco de Dados; obter qualificações para fullstack; obter certificações ágeis; Aprender HTML e CSS.
+- 🎯 Tenho objetivos de obter qualificações para fullstack; obter certificações ágeis; Aprender HTML e CSS e me pós-graduar em IA, Machine learning e Banco de Dados.
 
 - 📫 How to reach me: <div> 
   <a href = "mailto:anderson.dim.abs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
