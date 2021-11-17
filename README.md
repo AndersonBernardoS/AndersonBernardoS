@@ -19,10 +19,12 @@
   
 - 😄 Pronouns: Ele/Dele (he/him)
 
+#
+
 <div align="center">
   <a href="https://github.com/DimAnder360">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DimAnder360&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimAnder360&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DimAnder360&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimAnder360&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <img align="center" alt="DimAnder-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
