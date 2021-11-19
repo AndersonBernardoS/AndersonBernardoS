@@ -23,29 +23,38 @@
 
 #
 
+- Technologies: 
+  <img align="center" alt="DimAnder-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+  <img align="center" alt="DimAnder-Django" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" /> 
+  <img align="center" alt="DimAnder-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
+  <img align="center" alt="DimAnder-PyCharm" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />
+  <img align="center" alt="DimAnder-Travis" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain-wordmark.svg" />
+  <img align="center" alt="DimAnder-CodeCov" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codecov/codecov-plain.svg" />
+  <img align="center" alt="DimAnder-Trello" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
+  
+- Knowledge in:
+  <img align="center" alt="DimAnder-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="DimAnder-RStudio" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
+  <img align="center" alt="DimAnder-R" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+  
+- Next knowledge: 
+  <img align="center" alt="DimAnder-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="DimAnder-HTML5" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="DimAnder-CSS3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+
+#
+
 <div align="center">
   <a href="https://github.com/DimAnder360">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DimAnder360&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimAnder360&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<img align="center" alt="DimAnder-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="center" alt="DimAnder-Django" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
-<img align="center" alt="DimAnder-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  
-  
-<img align="center" alt="DimAnder-R" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-<img align="center" alt="DimAnder-php" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-<img align="center" alt="DimAnder-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 
-
-<img align="center" alt="DimAnder-MySQL" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   
  
-<img align="center" alt="DimAnder-PyCharm" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />
-<img align="center" alt="DimAnder-RStudio" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
-<img align="center" alt="DimAnder-Trello" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
+
+
+
   
-  
-<img align="center" alt="DimAnder-Travis" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain-wordmark.svg" />  
-<img align="center" alt="DimAnder-CodeCov" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codecov/codecov-plain.svg" />
+
