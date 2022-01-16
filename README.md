@@ -5,7 +5,7 @@
 
 ### Sobre Mim/About me:
 
-- 🔭 Eu sou Agilista, Desenvolvedor e Analista de Sistemas. Habilidades em Backend com Python e Framework Django. Amante da Tecnologia, Inteligência Artificial, Automação e Metodologias Ágeis.
+- 🔭 Eu sou Agilista, Desenvolvedor e Analista de Sistemas. Estudante de Ciência da Computação. Habilidades em Backend com Python e Framework Django. Amante da Tecnologia, Inteligência Artificial, Automação e Metodologias Ágeis.
 
 - 🌱 Atualmente estou cursando a Graduação de Análise e Desenvolvimento de Sistemas, estudo Python e Django, e estou aprimorando meus conhecimentos com Scrum, Kanban e OKR.
 
