@@ -5,11 +5,11 @@
 
 ### Sobre Mim/About me:
 
+- 🎯 Tenho como principal objetivo, a curto prazo, conseguir minha primeira experiência profissional; Estou em transição de carreira e tenho paixão e sonho, trabalhar com tecnologia!
+
 - 🔭 Estudante de Ciências da Computação. Habilidades em Backend com Python e Framework Django. Amante da Tecnologia, Inteligência Artificial, Automação e Metodologias Ágeis.
 
 - 🌱 Atualmente estou cursando a Graduação Tecnóloga em Análise e Desenvolvimento de Sistemas e Bacharelado em Ciências da Computação. Aprimorando os conhecimentos em Python e Django, e familiarizando mais com metodologias ágeis.
-
-- 🎯 Tenho como principal objetivo, a curto prazo, conseguir minha primeira experiência profissional; a médio prazo, aprender mais sobre HTML5 e CSS3 e, a longo prazo, me especializar/pós-graduar na área da tecnologia.
 
 - 📫 How to reach me: <div> 
   <a href = "mailto:anderson.dim.abs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
