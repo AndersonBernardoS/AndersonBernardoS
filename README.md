@@ -5,11 +5,11 @@
 
 ### Sobre Mim/About me:
 
-- 🔭 Eu sou Agilista, Desenvolvedor e Analista de Sistemas. Estudante de Ciência da Computação. Habilidades em Backend com Python e Framework Django. Amante da Tecnologia, Inteligência Artificial, Automação e Metodologias Ágeis.
+- 🔭 Estudante de Ciências da Computação. Habilidades em Backend com Python e Framework Django. Amante da Tecnologia, Inteligência Artificial, Automação e Metodologias Ágeis.
 
-- 🌱 Atualmente estou cursando a Graduação de Análise e Desenvolvimento de Sistemas, estudo Python e Django, e estou aprimorando meus conhecimentos com Scrum, Kanban e OKR.
+- 🌱 Atualmente estou cursando a Graduação Tecnóloga de Análise e Desenvolvimento de Sistemas e Bacharelado de Ciências da Computação, aprimorando os conhecimentos em Python e Django, e familiarizando mais com metodologias ágeis.
 
-- 🎯 Tenho objetivos de obter qualificações para fullstack; obter certificações ágeis; Aprender HTML e CSS e me pós-graduar em IA, Machine learning e Banco de Dados.
+- 🎯 Tenho como principal objetivo, a curto prazo, conseguir minha primeira experiência profissional; a médio prazo, aprender mais sobre HTML5 e CSS3 e, a longo prazo, me especializar/pós-graduar na área da tecnologia.
 
 - 📫 How to reach me: <div> 
   <a href = "mailto:anderson.dim.abs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -27,24 +27,16 @@
   <img align="center" alt="DimAnder-Django" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" /> 
   <img align="center" alt="DimAnder-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
   <img align="center" alt="DimAnder-PyCharm" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />
-  <img align="center" alt="DimAnder-Travis" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain-wordmark.svg" />
-  <img align="center" alt="DimAnder-CodeCov" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codecov/codecov-plain.svg" />
   <img align="center" alt="DimAnder-Trello" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
-  <img align="center" alt="DimAnder-Trello" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
-  <img align="center" alt="DimAnder-Trello" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+  <img align="center" alt="DimAnder-Heroku" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
+  <img align="center" alt="DimAnder-Win" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+  <img align="center" alt="DimAnder-HTML5" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="DimAnder-CSS3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   
 - Knowledge in:
   <img align="center" alt="DimAnder-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="DimAnder-RStudio" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
-  <img align="center" alt="DimAnder-R" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-  <img align="center" alt="DimAnder-R" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="DimAnder-R" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  
-- Next knowledge: 
-  <img align="center" alt="DimAnder-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="DimAnder-HTML5" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="DimAnder-CSS3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="DimAnder-CSS3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="DimAnder-Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="DimAnder-Jupyter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 
 #
 
