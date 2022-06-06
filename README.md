@@ -5,7 +5,7 @@
 
 ### Sobre Mim/About me:
 
-### - 🎯 Tenho como principal objetivo, a curto prazo, conseguir minha primeira experiência profissional; Estou em transição de carreira e tenho paixão e sonho, trabalhar com tecnologia!
+### - 🎯 Tenho como principal objetivo aprimorar ainda mais minhas habilidades e conhecimentos, Tenho paixão em trabalhar com tecnologia!
 
 - 🔭 Estudante de Ciências da Computação. Habilidades em Backend com Python e Framework Django. Amante da Tecnologia, Inteligência Artificial, Automação e Metodologias Ágeis.
 
