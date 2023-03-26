@@ -1,4 +1,4 @@
-# Olá! Seja bem vind@ ao meu GitHub<img align="center" alt="DimAnder-GitHub" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> !
+# Olá! Seja bem vind@ ao meu GitHub! <img align="center" alt="DimAnder-GitHub" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> 
 
 ## Eu sou Anderson Bernardo, ou DimAnder360 <div>
   <img align="right" alt="DimAnder-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/910653313253515276/910653434808660038/Dollify-1f45b8c2-9fc4-42c7-ac81-8baa0616d8c3-1.png">
