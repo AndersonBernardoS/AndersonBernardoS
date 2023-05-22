@@ -4,13 +4,6 @@
   <img align="right" alt="DimAnder-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/910653313253515276/910653434808660038/Dollify-1f45b8c2-9fc4-42c7-ac81-8baa0616d8c3-1.png">
 </div>
 
-### Sobre Mim/About me:
-
-### - 🎯 Tenho como principal objetivo aprimorar ainda mais minhas habilidades e conhecimentos, Tenho paixão em trabalhar com tecnologia!
-
-- 🔭 Estudante de Ciências da Computação. Habilidades em Backend com Python e Framework Django. Amante da Tecnologia, Inteligência Artificial, Automação e Metodologias Ágeis.
-
-- 🌱 Atualmente estou cursando a Graduação Tecnóloga em Análise e Desenvolvimento de Sistemas e Bacharelado em Ciências da Computação. Aprimorando os conhecimentos em Python e Django, e familiarizando mais com metodologias ágeis.
 
 - 📫 How to reach me: <div> 
   <a href = "mailto:anderson.dim.abs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
