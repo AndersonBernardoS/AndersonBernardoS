@@ -31,6 +31,7 @@
   <img align="center" alt="DimAnder-PyCharm" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg"/>
   <img align="center" alt="DimAnder-Trello" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
   <img align="center" alt="DimAnder-Heroku" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
+  <img align="center" alt="DimAnder-Codecov" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codecov/codecov-plain.svg" />
   <img align="center" alt="DimAnder-Win" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 #
 - Knowledge in:
