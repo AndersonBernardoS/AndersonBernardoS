@@ -49,6 +49,6 @@
 
 <div align="center">
   <a href="https://github.com/AndersonBernadoS">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AndersonBernadoS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonBernadoS&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AndersonBernardoS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonBernardoS&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
