@@ -4,7 +4,7 @@
 # Hello! Welcome to my GitHub! <img align="center" alt="DimAnder-GitHub" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> 
 
 
-## I'm Anderson Bernardo, or DimAnder360 <div>
+## I'm Anderson Bernardo, or AndersonBernadoS <div>
 
 ### - 📫 How to reach me: <div> 
   <a href = "mailto:anderson.dim.abs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -48,7 +48,7 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/DimAnder360">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DimAnder360&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimAnder360&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/AndersonBernadoS">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AndersonBernadoS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonBernadoS&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
