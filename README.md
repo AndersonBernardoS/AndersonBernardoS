@@ -1,8 +1,7 @@
-<img align="right" alt="DimAnder-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/910653313253515276/910653434808660038/Dollify-1f45b8c2-9fc4-42c7-ac81-8baa0616d8c3-1.png?ex=664dc4d9&is=664c7359&hm=483089c5d740d5e00599295fee17a7fe368c7378c7bca434bfcd030ffad245db&">
+<img align="right" alt="DimAnder-pic" height="100" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/910653313253515276/910653434808660038/Dollify-1f45b8c2-9fc4-42c7-ac81-8baa0616d8c3-1.png?ex=664dc4d9&is=664c7359&hm=483089c5d740d5e00599295fee17a7fe368c7378c7bca434bfcd030ffad245db&">
 </div>
 
 # Hello! Welcome to my GitHub! <img align="center" alt="DimAnder-GitHub" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> 
-
 
 ## I'm Anderson Bernardo, or AndersonBernadoS <div>
 
@@ -23,12 +22,13 @@
   <img align="center" alt="DimAnder-.Net" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
   <img align="center" alt="DimAnder-Java" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="DimAnder-AngularJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="DimAnder-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="DimAnder-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />        
 #
 - Tools:
   <img align="center" alt="DimAnder-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="DimAnder-Firebase" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" />
   <img align="center" alt="DimAnder-VScode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-  <img align="center" alt="DimAnder-PyCharm" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg"/>
+  <img align="center" alt="DimAnder-PyCharm" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
   <img align="center" alt="DimAnder-Trello" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
   <img align="center" alt="DimAnder-Heroku" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
   <img align="center" alt="DimAnder-Codecov" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codecov/codecov-plain.svg" />
