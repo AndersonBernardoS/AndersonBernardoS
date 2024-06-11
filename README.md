@@ -1,4 +1,4 @@
-<img align="right" alt="DimAnder-pic" height="100" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/910653313253515276/910653434808660038/Dollify-1f45b8c2-9fc4-42c7-ac81-8baa0616d8c3-1.png?ex=664dc4d9&is=664c7359&hm=483089c5d740d5e00599295fee17a7fe368c7378c7bca434bfcd030ffad245db&">
+<img align="right" alt="DimAnder-pic" height="100" style="border-radius:50px;" src="https://media.discordapp.net/attachments/910653313253515276/910653434808660038/Dollify-1f45b8c2-9fc4-42c7-ac81-8baa0616d8c3-1.png?ex=66697459&is=666822d9&hm=7f34ab19a7ee7adcff2d49f4274f1bb5560f317c1e38e5cbb60163e27f976b4a&=&format=webp&quality=lossless&width=662&height=662">
 </div>
 
 # Hello! Welcome to my GitHub! <img align="center" alt="DimAnder-GitHub" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> 
