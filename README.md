@@ -18,9 +18,9 @@
 - Technologies: 
   <img align="center" alt="DimAnder-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
   <img align="center" alt="DimAnder-Django" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" /> 
-  <img align="center" alt="DimAnder-C#" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="DimAnder-.Net" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
-  <img align="center" alt="DimAnder-Java" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="DimAnder-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="DimAnder-HTML5" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="DimAnder-CSS3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="DimAnder-AngularJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="DimAnder-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />        
 #
@@ -35,12 +35,12 @@
   <img align="center" alt="DimAnder-Win" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 #
 - Knowledge in:
-  <img align="center" alt="DimAnder-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="DimAnder-HTML5" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="DimAnder-CSS3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="DimAnder-AWS" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
   <img align="center" alt="DimAnder-Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="DimAnder-Jupyter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img align="center" alt="DimAnder-C#" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="DimAnder-.Net" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
+  <img align="center" alt="DimAnder-Java" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 #
 - Practices & Hobbies: 
   <img align="center" alt="DimAnder-Canva" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
