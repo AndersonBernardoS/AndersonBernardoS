@@ -22,7 +22,7 @@
   
 
 #
-- Technologies: 
+- **_Technologies:_** 
   <img align="center" alt="DimAnder-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
   <img align="center" alt="DimAnder-Django" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" /> |
   <img align="center" alt="DimAnder-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -33,7 +33,7 @@
   <img align="center" alt="DimAnder-CSS3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> |
   <img align="center" alt="DimAnder-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />        
 #
-- Tools:
+- **_Tools:_**
   <img align="center" alt="DimAnder-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="DimAnder-Firebase" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" /> |
   <img align="center" alt="DimAnder-VScode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
@@ -44,7 +44,7 @@
   <img align="center" alt="DimAnder-Figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="DimAnder-Canva" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 #
-- Knowledge in:
+- **_Knowledge in:_**
   <img align="center" alt="DimAnder-AWS" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
   <img align="center" alt="DimAnder-Oracle" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" /> |
   <img align="center" alt="DimAnder-Win" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
