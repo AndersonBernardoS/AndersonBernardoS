@@ -1,6 +1,5 @@
-<img align="center" alt="DimAnder-GitHub" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> 
- Welcome to my GitHub! 
-  
+# Welcome to my GitHub! <img align="center" alt="DimAnder-GitHub" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> 
+
 ## I'm Anderson Bernardo, or AndersonBernadoS
 
 ### - 📫 How to reach me: <div> 
