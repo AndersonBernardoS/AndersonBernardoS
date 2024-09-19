@@ -1,4 +1,5 @@
 # Welcome to my GitHub! <img align="center" alt="DimAnder-GitHub" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> 
+![office](https://github.com/user-attachments/assets/91f4f051-4230-431e-a48d-cd4cd326b869)
 
 ## I'm Anderson Bernardo, or AndersonBernadoS
 >I hold a degree in Systems Analysis and Development and am currently pursuing a Bachelor's in Software Engineering, with 2 years of experience as a Systems Analyst.
@@ -6,6 +7,10 @@
 >Technology is my passion, and I’m constantly driven to learn more, with a deep curiosity for innovation.
 >
 >My objective is to grow as a Software Engineering professional, becoming a reference in the field, solidifying my career, and adding value to those around me. I aim to contribute to making technology a sustainable force for good in people's lives.
+>
+> ![Dollify-1f45b8c2-9fc4-42c7-ac81-8baa0616d8c3-1 - Copia](https://github.com/user-attachments/assets/dc308d99-ba26-4f5f-a8bd-277cd657a750)
+
+
 
 ### - 📫 How to reach me: <div> 
   <a href = "mailto:anderson.dim.abs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
