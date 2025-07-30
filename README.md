@@ -50,8 +50,8 @@
   <img align="center" alt="DimAnder-AWS" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
   <img align="center" alt="DimAnder-Oracle" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" /> |
   <img align="center" alt="DimAnder-Win" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-  <img align="center" alt="DimAnder-Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  
+  <img align="center" alt="DimAnder-Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> |
+  <img  align="center" alt="DimAnder-Delphi" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" />
 ##
 
 <div align="center">
