@@ -49,6 +49,7 @@ I believe solving real problems with technology — regardless of the stack — 
 |---|---|
 | 🏢 | Fullstack Developer — **9k Divimega** *(Mai/May 2025 →)* |
 | 🎓 | Instrutor Técnico / Tech Instructor — **PROZ Educação** *(Mar 2025 →)* |
+| 📚 | Tecnólogo em Análise e Desenvolvimento de Sistemas / Technologist in Systems Analysis & Dev — **UniCesumar** *(Abr/Apr 2024)* |
 | 📚 | Bacharelado em Sistemas de Informação / B.S. in Information Systems — **PUC Minas** *(previsão / exp. Dec 2028)* |
 
 ---
